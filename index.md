@@ -6,10 +6,10 @@ nav_order: 0
 permalink: /:path/
 seo:
   type: Course
-  name: AEM 2011 Statics Course
+  name: AEM 3103 Computer Methods in Aerospace Engineering 
 ---
 
-# Welcome to Statics
+# Welcome to Computer Methods in Aerospace Engineering
 
 - **Instructor**
   - Hamid Mokhtarzadeh

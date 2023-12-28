@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: AEM 2011
-tagline: Statics - Spring 2023
-description: Spring 2023 Statics
+title: AEM 3103
+tagline: Computer Methods in Aerospace Engineering - Spring 2024
+description: Spring 2024 Computer Methods in Aerospace Engineering
 author: H. Mokhtarzadeh
-baseurl: '/umn-aem2011-spring2023' # the subpath of your site, e.g. /blog
+baseurl: '/umn-aem3103-spring2024' # the subpath of your site, e.g. /blog
 url: 'https://hamid-m.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 

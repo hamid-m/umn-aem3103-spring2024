@@ -16,37 +16,40 @@ description: >-
 {:toc}
 
 ---
-## Instructor
+## Course Information 
+- **Lectures:** MW 4:00-5:15 PM, L125 Lind Hall
 
+## Instructor
 - Hamid Mokhtarzadeh
 - E-mail: mokh0006
-- Office: 205 Akerman Hall
-- Office Hours: MW 10:30 AM - 12:00 PM
+- Office: 216 Akerman Hall
+- Office Hours: MW 3:00 PM - 3:45 PM
 
-## Teaching Assistant
-- Alex Zhu
-- E-mail: zhux0533
-- Office Hours (AkerH 130A): Tuesdays 10:00 AM - 12:00 PM
+## Teaching Assistants
 
-## Course Information 
-- **Lectures:** MWF 9:05-9:55 AM, 105 Tate Hall
-- **Discussions:** 
-  - Tu 01:25‑02:15 PM (AkerH 215)
-  - Tu 09:05‑09:55 AM (AkerH 313)
+### Naga Chinta
+- E-mail: chint068
+- Office Hours: TBD
+
+### Elan Graupe
+- E-mail: graup071
+- Office Hours: TBD
+
+### Xiaoshan Lin
+- E-mail: lin00668
+- Office Hours: TBD
+
 
 ## Textbook
-This class material will be following the 12th edition of F.P. Beer, E.R. Johnston, and D.F. Mazurek, Vector Mechanics for Engineers.  However, earlier editions of the book can also work for this course.
+- Required: [Numerical Methods for Engineers and Scientists](https://www.wiley.com/en-ae/Numerical+Methods+for+Engineers+and+Scientists%3A+An+Introduction+with+Applications+Using+MATLAB%2C+3rd+Edition-p-9781118554937)
+- Optional: [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 
-## Course Objectives
-Develop an understanding of the principles of statics and the ability to construct free body diagrams. Understand how to solve equilibrium problems involving trusses frames and machines. Be able to analyze distributed loads. Understand the concept of internal forces in members, and be able to draw shear and bending-moment diagrams for beams. Obtain knowledge of the laws of dry friction. Understand properties of areas and be able to calculate centroids and moments of inertia for areas.
 
-## Course Outcomes
-Students who successfully complete the course will demonstrate the following:
-1. An ability to construct free-body diagrams and to calculate the reactions necessary to ensure static equilibrium.
-2. An understanding of the analysis of distributed loads.
-3. A knowledge of internal forces and moments in members.
-4. An ability to calculate centroids and moments of inertia.
-5. An ability to solve static equilibrium problems involving friction.
+## Course Objectives & Outcomes
+This course is an introduction to using software and numerical methods for solving aerospace engineering problems.  You will learn three sets of skills:
+1) *Good enough* software skills for starting to contribute as an aerospace engineer (software selection, data visualizations, project organization, code quality, version control)
+2) Solving problems common in aerospacer engineering (e.g. equation-solving, curve fitting, numerical differentiation and integration.  Generic solutions methods as well as their implementation will be discussed. 
+3) Using Computer Aided Design (CAD) software to draw parts, assemblies, and drawings
 
 ## Homework and Quizzes
 Recommended homework problems will be posted weekly on the course website. You should solve as many of these problems as possible to improve your understanding of the material. You are encouraged to contact the instructor and/or the TAs with any questions. You are also free to work together with your classmates on the homework, however you should be able to solve the problems on your own. Solutions will be posted but the homework will not be collected. Instead, a short quiz will be given at the beginning of each recitation section. The quiz problem will be based (with minor changes) on one of the homework problems from the previous week. There will be 11 quizzes throughout the semester. Each quiz will be worth 2% of your total grade and your quiz score will only be counted if it is greater than your final exam score. The contribution of the quizzes to your final grade will be:

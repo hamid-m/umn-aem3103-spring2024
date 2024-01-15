@@ -1,5 +1,5 @@
 ---
-title: Class Project & Collaboration
+title: Final Project & Collaboration
 ---
 Apr. 22
 : Collaboration 

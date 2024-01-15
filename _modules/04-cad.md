@@ -8,8 +8,8 @@ Feb. 14
 Feb. 19
 : CAD Q&A
   : notes coming  
-: **HW 2**{: .label .label-green} 
-  : CAD
+: **CAD HW**{: .label .label-green} 
+  : Parts, Assemblies, & Drawings
 
 Feb. 21
 : **CAD Q&A (cont.) & Applications**

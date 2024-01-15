@@ -8,6 +8,8 @@ Mar. 25
 Mar. 27
 : Numerical Integration 
   : Chap. 9
+: **HW 4**{: .label .label-green} 
+  : Num. Int. & ODE
 
 Apr. 1
 : Numerical Integration (cont.)

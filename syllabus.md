@@ -6,7 +6,7 @@ description: >-
     Course policies and information.
 ---
 
-# Syllabus
+## Syllabus
 {:.no_toc}
 
 ## Table of contents
@@ -16,64 +16,92 @@ description: >-
 {:toc}
 
 ---
-## Course Information 
-- **Lectures:** MW 4:00-5:15 PM, L125 Lind Hall
 
-## Instructor
+## Course Information 
+- **Title:** AEM 3103 - Computer Methods in Aerospace Engineering
+- **Lectures:** MW 4:00-5:15 PM, L125 Lind Hall
+- **Prerequisites:** MATH 2373 or equiv., CSE major
+
+### Instructor
 - Hamid Mokhtarzadeh
 - E-mail: mokh0006
 - Office: 216 Akerman Hall
 - Office Hours: MW 3:00 PM - 3:45 PM
 
-## Teaching Assistants
+### Teaching Assistants
 
-### Naga Chinta
+#### Naga Chinta
+{:.no_toc}
 - E-mail: chint068
 - Office Hours: TBD
 
-### Elan Graupe
+#### Elan Graupe
+{:.no_toc}
 - E-mail: graup071
 - Office Hours: TBD
 
-### Xiaoshan Lin
+#### Xiaoshan Lin
+{:.no_toc}
 - E-mail: lin00668
 - Office Hours: TBD
 
 
-## Textbook
+### Textbook
 - Required: [Numerical Methods for Engineers and Scientists](https://www.wiley.com/en-ae/Numerical+Methods+for+Engineers+and+Scientists%3A+An+Introduction+with+Applications+Using+MATLAB%2C+3rd+Edition-p-9781118554937)
 - Optional: [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 
+### In-Class Laptop & Software
+Starting with the 2nd lecture, you will need a laptop available during class.  If you need assistance securing a suitable laptop for this class, please contact the instructor.
 
-## Course Objectives & Outcomes
-This course is an introduction to using software and numerical methods for solving aerospace engineering problems.  You will learn three sets of skills:
-1) *Good enough* software skills for starting to contribute as an aerospace engineer (software selection, data visualizations, project organization, code quality, version control)
-2) Solving problems common in aerospacer engineering (e.g. equation-solving, curve fitting, numerical differentiation and integration.  Generic solutions methods as well as their implementation will be discussed. 
-3) Using Computer Aided Design (CAD) software to draw parts, assemblies, and drawings
+Software we will use in this class includes:
+1. MATLAB
+2. Python
+3. SOLIDWORKS
+4. Git (and GitHub)
 
-## Homework and Quizzes
-Recommended homework problems will be posted weekly on the course website. You should solve as many of these problems as possible to improve your understanding of the material. You are encouraged to contact the instructor and/or the TAs with any questions. You are also free to work together with your classmates on the homework, however you should be able to solve the problems on your own. Solutions will be posted but the homework will not be collected. Instead, a short quiz will be given at the beginning of each recitation section. The quiz problem will be based (with minor changes) on one of the homework problems from the previous week. There will be 11 quizzes throughout the semester. Each quiz will be worth 2% of your total grade and your quiz score will only be counted if it is greater than your final exam score. The contribution of the quizzes to your final grade will be:
+Some will be optional and others required.  Details, including installation and setup instructions, will be discussed in class.
 
-![Quiz Grade Equation]({{ site.baseurl }}{% link /assets/quiz-eqn.png %})
 
-The above grading policy means that it will not adversely affect your final grade if you miss a quiz for any other reason (e.g. illness) or simply do poorly on it. Quizzes that are missed for any reason cannot be made up. It is not necessary to inform the teaching staff if you plan to miss a quiz.
+## Objectives & Outcomes
+This course is an introduction to using software and computational methods for solving aerospace engineering problems.  You will learn three sets of skills:
+1. **Software:** *Good enough* software skills for starting to contribute as an aerospace engineer (software selection, data visualizations, project organization, code quality, version control).
+2. **Numerical Methods:** Solving problems common in aerospace engineering (e.g. equation-solving, curve fitting, numerical differentiation and integration).  Generic methods as well as their implementation will be discussed. 
+3. **CAD:** Using Computer Aided Design (CAD) software to draw parts, assemblies, and drawings
 
-## Exams
-There will be two 50 minute in-class exams and one final exam. All exams will be closed note and closed book except for one 8.5 × 11 sheet (front and back) of notes. You will not be allowed to have any books or class notes in the classroom on exam day. Exams cannot be made up without a valid, documented excuse (e.g. letter from doctor).
+## Grade Components 
+The course grades are formed around the following components: 
 
-## Grading
-Grades will be weighted as follows: 
+| Item    | Percentage | Target Assessment |
+|--------:|:----:|:----|
+| In-Lecture Assessments | 15% | Participation & in-class coding |
+| CAD Homework  | 15% | Basic CAD |
+| Other Homework  | 25% | Software and Numerical Methods | 
+| Exams 1 & 2   | 20% | Software and Numerical Methods |
+| Final Project | 25% | Integrating & applying skills to solve a problem |
+| **TOTAL** | 100% |  | 
 
-| Item    | Percentage |
-|--------:|:----|
-| Quizzes | 22% |
-| Exam 1  | 22% |
-| Exam 2  | 22% |
-| Final   | 34% |
-| **TOTAL** | 100% |
+### In-Lecture Assessments
 
-Grades will be posted to *(TBD - http://www.aem.umn.edu/srs or Canvas)*. No extra credit opportunities to improve grades will be available either during or at the end of the semester.
+Short in-lecture assessments will be used in class to gauge understanding and track participation.  
 
+*Grading: The lowest 4 scores will be dropped.  No make up.*
+
+### Homework
+
+Homework will be assigned throughout the course.  With the exception of CAD, many of the homework questions will come directly from the course textbook and are designed to strengthen your understanding of the theories behind the numerical methods we will use in class. 
+
+*Grading: The lowest score will be dropped.*
+
+### Exams
+There will be two in-class exams. Instructions as to the usage of a note sheet and/or a computer during the exam will be provided in advance of each exam. 
+
+*Grading: Exams cannot be made up without a valid, documented excuse (e.g. letter from doctor).*
+
+### Final Project
+The final project provides an opportunity to setup and solve an engineering problem using the skills covered in this class.
+
+### Grades
+Grades for specific components will be posted to Canvas.  Final grades will be posted to [http://www.aem.umn.edu/srs](http://www.aem.umn.edu/srs). 
 
 Letter grades for the course will be assigned using the following scale:
 
@@ -89,19 +117,45 @@ This is only a rough scale. This scale may be adjusted depending on the performa
 to the scale will only lower the cut-offs to achieve a specified grade; cut-offs will not be raised beyond those listed
 here.
 
-**Regrades:** Your quizzes and exams will be graded and handed back as soon as possible. If you have any questions or comments
-on the grading please contact the TA who graded your paper. If you feel your work was incorrectly graded then
-submit your request for a regrade in writing to the TA. You have one week to deal with grade disputes. The
-grade will be final if no request is made within one week. When disputing a grade, be aware that your work
-will be reexamined and as a result your grade can be reduced as well as increased.
+**Regrades:** If you have any questions or comments on the grading please contact the TA who graded your work. If you feel your work was incorrectly graded then submit your request for a regrade in writing (i.e. email) to the TA. You have one week to deal with grade disputes. The grade will be final if no request is made within one week. When disputing a grade, be aware that your work will be reexamined and as a result your grade can be reduced as well as increased.
 
-## Electronic Devices
-During quizzes/exams you may only use a simple calculator that does not communicate in any wireless manner.
-Pagers, cell phones, and all other communications devices must be turned off during quizzes/exams.
+**Extra Credit:** No extra credit opportunities to improve grades will be available either during or at the end of the semester.
 
 ## Scholastic Honesty
-Cheating is completely unacceptable. University policies on scholastic conduct (see link) will be strictly enforced.
-- [Student Code of Conduct](https://regents.umn.edu/sites/regents.umn.edu/files/policies/Student_Conduct_Code.pdf){:target="_blank"}
+Cheating is completely unacceptable. University policies on scholastic conduct (see [Student Code of Conduct](https://regents.umn.edu/sites/regents.umn.edu/files/policies/Student_Conduct_Code.pdf){:target="_blank"}) will be strictly enforced.
 
 ## Course Outline
-See the [Course Schedule Page]({{ site.baseurl }}/schedule/)
+See the course [Schedule]({{ site.baseurl }}/schedule/) page.
+
+## Additional Information
+
+### Student Code of Conduct
+The University seeks an environment that promotes academic achievement and integrity, that is protective of free inquiry, and that serves the educational mission of the University. To support this environment, the University seeks a community that is free from violence, threats, and intimidation; that is respectful of the rights, opportunities, and welfare of students, faculty, staff, and guests of the University; and that does not threaten the physical or mental health or safety of members of the University community.
+
+As a student at the University, you are expected to adhere to Board of Regents Policy: [Student Conduct Code (pdf)](https://regents.umn.edu/sites/regents.umn.edu/files/2022-07/policy_student_conduct_code.pdf){:target="_blank"}. Note that the conduct code specifically addresses disruptive classroom conduct, which means "engaging in behavior that substantially or repeatedly interrupts either the instructor's ability to teach and/or a student’s ability to learn.” The classroom extends to any setting where a student is engaged in work toward academic credit or satisfaction of program-based requirements or related activities.
+
+### Use of Personal Electronic Devices in the Classroom
+
+Using personal electronic devices in the classroom setting can hinder instruction and learning, not only for the student using the device but also for other students in the class. To this end, the University establishes the right of each instructor to determine if and how personal electronic devices are allowed to be used in the classroom. For complete information, please review the Administrative Policy: [Teaching and Learning: Student Responsibilities](https://policy.umn.edu/education/studentresp){:target="_bank"}.
+
+### Makeup Work for Legitimate Absences
+Students will not be penalized for absence during the semester due to unavoidable or legitimate circumstances. Such circumstances include verified illness, participation in intercollegiate athletic events, subpoenas, jury duty, military service, bereavement, and religious observances. Such circumstances do not include voting in local, state, or national elections. For complete information, please see Administrative Policy: [Makeup Work for Legitimate Absences](https://policy.umn.edu/education/makeupwork){:target="_blank"}.
+
+### Sexual Harassment, Sexual Assault, Stalking and Relationship Violence
+The University prohibits sexual misconduct, and encourages anyone experiencing sexual misconduct to access resources for personal support and reporting. If you want to speak confidentially with someone about an experience of sexual misconduct, please contact a confidential resource on your campus. If you want to report sexual misconduct, or have questions about the University’s policies and procedures related to sexual misconduct, please contact your campus [Title IX office or relevant policy contacts](https://eoaa.umn.edu/report-misconduct){:target="_blank"}.
+
+Instructors are required to share information they learn about possible sexual misconduct with the campus Title IX office that addresses these concerns. This allows a Title IX staff member to reach out to those who have experienced sexual misconduct to provide information about personal support resources and options for investigation. You may talk to instructors about concerns related to sexual misconduct, and they will provide support and keep the information you share private to the extent possible given their University role.
+
+For more information, please see Administrative Policy: [Sexual Harassment, Sexual Assault, Stalking and Relationship Violence](https://policy.umn.edu/hr/sexharassassault){:target="_blank"}.
+
+### Equity, Diversity, Equal Opportunity, and Affirmative Action
+The University provides equal access to and opportunity in its programs and facilities, without regard to race, color, creed, religion, national origin, gender, age, marital status, familial status, disability, public assistance status, membership or activity in a local commission created for the purpose of dealing with discrimination, veteran status, sexual orientation, gender identity, or gender expression. For more information, please consult Board of Regents Policy: [Equity, Diversity, Equal Opportunity and Affirmative Action (pdf)](https://regents.umn.edu/sites/regents.umn.edu/files/2019-09/policy_equity_diversity_equal_opportunity_and_affirmative_action.pdf){:target="_blank"}.
+
+### Disability Accommodations
+My goal is to create a learning environment that is accessible and inclusive for all students. If you anticipate any barriers related to the design of the course (such as the format, materials, or structure), please contact me outside of class so we can explore potential options. If you have a disability and want to explore formal accommodations and/or further resources, please contact our campus Disability Resource Center (DRC).
+
+### Mental Health and Stress Management
+As a student you may experience a range of issues that can cause barriers to learning, such as strained relationships, increased anxiety, alcohol/drug problems, feeling down, difficulty concentrating and/or lack of motivation. These mental health concerns or stressful events may lead to diminished academic performance and may reduce your ability to participate in daily activities. University services are available to assist you. You can learn more about the broad range of confidential mental health services available on campus via the [Student Mental Health Website](https://safe-campus.umn.edu/personal-wellbeing){:target="_blank"}. As an instructor/University community member, we care about the wellbeing of students. If health, safety, or mental health concerns are conveyed, we may consult with campus support offices to provide support and resources to a student.
+
+### Academic Freedom and Responsibility
+Academic freedom is a cornerstone of the University. Within the scope and content of the course as defined by the instructor, it includes the freedom to discuss relevant matters in the classroom. Along with this freedom comes responsibility. Students are encouraged to develop the capacity for critical judgment and to engage in a sustained and independent search for truth. Students are free to take reasoned exception to the views offered in any course of study and to reserve judgment about matters of opinion, but they are responsible for learning the content of any course of study for which they are enrolled.

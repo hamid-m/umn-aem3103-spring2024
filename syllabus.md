@@ -22,28 +22,33 @@ description: >-
 - **Lectures:** MW 4:00-5:15 PM, L125 Lind Hall
 - **Prerequisites:** MATH 2373 or equiv., CSE major
 
-### Instructor
+### Instructors
 - Hamid Mokhtarzadeh
-- E-mail: mokh0006
+- E-mail: `mokh0006`
 - Office: 216 Akerman Hall
 - Office Hours: MW 3:00 PM - 3:45 PM
 
+#### CAD Instructor
+{:.no_toc}
+- Jeffry Abel
+- E-mail: `<lastname>.<firstname>@centry.edu`
+
 ### Teaching Assistants
 
-#### Naga Chinta
+#### Naga Hemachand Chinta
 {:.no_toc}
-- E-mail: chint068
+- E-mail: `chint068`
 - Office Hours: TBD
 
 #### Elan Graupe
 {:.no_toc}
-- E-mail: graup071
-- Office Hours: TBD
+- E-mail: `graup071`
+- Office Hours: MW 3:00 PM - 4:00 PM at AkerH 123
 
 #### Xiaoshan Lin
 {:.no_toc}
-- E-mail: lin00668
-- Office Hours: TBD
+- E-mail: `lin00668`
+- Office Hours: Thur. 4:00 PM - 6:00 PM on Zoom *(see Canvas for course Zoom link)*
 
 
 ### Textbook

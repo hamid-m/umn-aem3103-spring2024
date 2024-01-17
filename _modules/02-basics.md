@@ -8,16 +8,17 @@ Jan. 22
 Jan. 24
 : MATLAB (cont.)
   : A.1-A.11
-: **Install**{: .label .label-blue} 
-  : *Git/GitHub*
+: **Install Git**{: .label .label-blue} 
+  : [Git Downloads](https://www.git-scm.com/downloads){:target="_blank"}
 
 
 Jan. 29
-: **Version Control Using Git & GitHub**
+: **Version Control Using Git**
 : **HW 1**{: .label .label-green} 
   : Basics & Curve Fitting
-: **Install**{: .label .label-blue} 
-  : *Python*
+: **Install Python**{: .label .label-blue} 
+  : [Anaconda Distribution](https://www.anaconda.com/download)
+: *(or install: Python, IPython, Numpy, Scipy, Matplotlib, Jupyter Notebook)*
 
 Jan. 31
 : Python 

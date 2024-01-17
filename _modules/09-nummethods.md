@@ -30,6 +30,9 @@ Apr. 10
 Apr. 15
 : ODE (cont.)
   : Chap. 10
+: **GitHub Sign Up**{: .label .label-blue} 
+  : [GitHub Sign Up](https://github.com/signup){:target="_blank"}
+
 
 Apr. 17
 : **Exam 2**{: .label .label-orange}

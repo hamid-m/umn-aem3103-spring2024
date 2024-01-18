@@ -38,12 +38,14 @@ description: >-
 #### Naga Hemachand Chinta
 {:.no_toc}
 - E-mail: `chint068`
-- Office Hours: TBD
+- Office Hours at AkerH 123 or 130A (TBD)
+   - Tue. and Thu. 11:30 AM - 12:30 PM
+   - Fri. 10:00 AM - 11:00 AM
 
 #### Elan Graupe
 {:.no_toc}
 - E-mail: `graup071`
-- Office Hours: MW 3:00 PM - 4:00 PM at AkerH 123
+- Office Hours: Mon. Tue. 3:00 PM - 4:00 PM at AkerH 123
 
 #### Xiaoshan Lin
 {:.no_toc}

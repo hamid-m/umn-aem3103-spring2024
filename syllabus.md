@@ -45,7 +45,7 @@ description: >-
 #### Elan Graupe
 {:.no_toc}
 - E-mail: `graup071`
-- Office Hours: Mon. Tue. 3:00 PM - 4:00 PM at AkerH 123
+- Office Hours: Tue. 3:00 PM - 4:00 PM and Wed. 10:30 - 11:30 AM at AkerH 123
 
 #### Xiaoshan Lin
 {:.no_toc}

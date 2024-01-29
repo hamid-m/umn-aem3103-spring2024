@@ -1,6 +1,6 @@
 ---
-title: Week 1 Announcement
-week: 1
+title: Week 2 Announcement
+week: 2
 date: 2023-01-22
 ---
 

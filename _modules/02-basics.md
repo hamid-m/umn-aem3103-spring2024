@@ -20,12 +20,4 @@ Jan. 29
   : [Anaconda Distribution](https://www.anaconda.com/download)
 : *(or install: Python, IPython, Numpy, Scipy, Matplotlib, Jupyter Notebook)*
 
-Jan. 31
-: Python 
-  : [PP&NM](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) Chapters 1-5
-
-Feb. 5
-: Python (cont.)
-  : [PP&NM](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) Chapters 1-5
-
 

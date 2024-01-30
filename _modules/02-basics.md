@@ -17,4 +17,8 @@ Jan. 29
 : **HW 1**{: .label .label-green} 
   : Basics & Curve Fitting
 
+Resources
+: [(notes) Software Carpentry: Programming with MATLAB](https://swcarpentry.github.io/matlab-novice-inflammation/index.html){:target="_blank"}
+: [(video) Software Carpentry: Programming with MATLAB](https://www.youtube.com/playlist?list=PLCC064D27ED118884){:target="_blank"}
+: [(PDF) Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf){:target="_blank"}
 

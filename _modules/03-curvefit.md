@@ -4,6 +4,8 @@ title: Curve Fitting & Interpolation
 Jan. 31
 : Curve Fitting
   : Chap. 6
+: **Download Data**{: .label .label-blue} 
+  : [Rutan-VariEze-Aero-Params.zip]({{ site.baseurl }}{% link /assets/Rutan-VariEze-Aero-Params.zip %}){:target="_blank"}
 
 Feb. 5
 : Curve Fitting (cont.)

@@ -16,8 +16,5 @@ Jan. 29
 : **Version Control Using Git**
 : **HW 1**{: .label .label-green} 
   : Basics & Curve Fitting
-: **Install Python**{: .label .label-blue} 
-  : [Anaconda Distribution](https://www.anaconda.com/download)
-: *(or install: Python, IPython, Numpy, Scipy, Matplotlib, Jupyter Notebook)*
 
 

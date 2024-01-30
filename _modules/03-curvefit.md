@@ -12,6 +12,9 @@ Feb. 5
 Feb 7
 : Interpolation
   : Chap. 6
+: **Install Python**{: .label .label-blue} 
+  : [Anaconda Distribution](https://www.anaconda.com/download)
+: *(or install: Python, IPython, Numpy, Scipy, Matplotlib, Jupyter Notebook)*
 
 Feb 12
 : Python 

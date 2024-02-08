@@ -26,7 +26,7 @@ description: >-
 
 ### Homework 1
 
-**Due:** Monday, Feb. 12
+**Due:** Monday, Feb. 12 at 11:59 AM.
 
 1. Textbook problem A.2
    - Using boolean operations to compare and output `True` or `False`.
@@ -36,6 +36,9 @@ description: >-
 5. Textbook problem A.24
 6. Textbook problem 6.1
 7. Textbook problem 6.7
+   - [Hint]({{ site.baseurl }}{% link /assets/2024-02-08-hw01-prob6.7-hint.pdf %}){:target="_blank"}
+
+Submission Formatting: Homework problems done in (possibly the same) MATLAB script can be "PUBLISHED" via the editor (look at the editor tabs).  Simply update the publishing settings from `html` output to `pdf`.  That will combine both the code and the output into a single file which can be submitted.
 
 ### Changelog
 {: .no_toc}

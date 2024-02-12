@@ -21,8 +21,10 @@ Feb 7
 Feb 12
 : Python 
   : [PP&NM](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) Chapters 1-5
-: **Install SOLIDWORKS**{: .label .label-blue} 
+: **Install SOLIDWORKS**{: .label .label-blue}
   : [CSE Software](https://cse.umn.edu/cseit/software){:target="_blank"}
 
+Resources
+: [(notes) Software Carpentry: Programming with Python](https://swcarpentry.github.io/python-novice-gapminder/){:target="_blank"}
 
 

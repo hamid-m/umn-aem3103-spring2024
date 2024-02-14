@@ -31,7 +31,7 @@ description: >-
 #### CAD Instructor
 {:.no_toc}
 - Jeffry Abel
-- E-mail: `<lastname>.<firstname>@centry.edu`
+- E-mail: jeffry.abel@century.edu 
 
 ### Teaching Assistants
 

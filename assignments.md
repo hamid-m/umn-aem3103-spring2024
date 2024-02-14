@@ -24,7 +24,7 @@ description: >-
 - **Submission:** Homework should be submitted via the course Gradescope page.
 - **Points:** Unless noted otherwise, each homework problem is worth 10 points.
 
-### Homework 1
+## Homework 1
 
 **Due:** Monday, Feb. 12 at 11:59 AM.
 
@@ -44,3 +44,20 @@ Submission Formatting: Homework problems done in (possibly the same) MATLAB scri
 {: .no_toc}
 
 - Jan. 24: First release.
+
+## CAD Homework 
+
+**Due:** Monday, Feb. 26 at 11:59 PM.
+
+*Details Comming Soon*
+
+1. Part
+2. Assembly
+3. Drawing
+
+Submission Formatting: Submit a single PDF where each problem is on a separate page.  Assign the problems appropriately when submitting via Gradescope.
+
+### Changelog
+{: .no_toc}
+
+- Feb. 14: First outline.

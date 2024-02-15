@@ -49,15 +49,17 @@ Submission Formatting: Homework problems done in (possibly the same) MATLAB scri
 
 **Due:** Monday, Feb. 26 at 11:59 PM.
 
-*Details Comming Soon*
-
+There are three problems for the assignment:
 1. Part
 2. Assembly
 3. Drawing
+
+Each are defined in the respective sections of the [Videos: Learning Solidworks](https://greenlakelabs.thinkific.com/courses/LearningSolidworks) series.  Look for the 3 "ASSIGNMENT" sections.
 
 Submission Formatting: Submit a single PDF where each problem is on a separate page.  Assign the problems appropriately when submitting via Gradescope.
 
 ### Changelog
 {: .no_toc}
 
+- Feb. 15: Add details of assignment definition.
 - Feb. 14: First outline.

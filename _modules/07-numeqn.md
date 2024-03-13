@@ -4,7 +4,7 @@ title: Numerical Equation Solving
 Mar. 11
 : Numerical Equation Solving 
   : Chap. 3.1, 3.3
-: Lecture Notes
+: Notes: Bisection Method
     : [chap03-bisection.pdf]({{ site.baseurl }}{% link /assets/notes/chap03-bisection.pdf %}){:target="_blank"}
   
 : **HW 2**{: .label .label-green} 
@@ -12,6 +12,10 @@ Mar. 11
 
 Mar. 13
 : Numerical Equation Solving 
-  : Chap. 3
+  : Chap. 3.2, 3.5
+: Notes: Errors and Stop Metics
+    : [chap03-stop-metrics.pdf]({{ site.baseurl }}{% link /assets/notes/chap03-stop-metrics.pdf %}){:target="_blank"}
+: Notes: Newton's Method
+    : [chap03-newtons.pdf]({{ site.baseurl }}{% link /assets/notes/chap03-newtons.pdf %}){:target="_blank"}
 
 

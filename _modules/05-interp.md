@@ -7,6 +7,7 @@ Feb. 26
 
 Feb. 28
 : **Exam 1**{: .label .label-orange}
+: [Exam 1 Solution]({{ site.baseurl }}{% link /assets/aem3103_spring2024_exam1-soln.pdf %}){:target="_blank"}
 
 Resources
 : [Exam Topics]({{ site.baseurl }}/exams/)

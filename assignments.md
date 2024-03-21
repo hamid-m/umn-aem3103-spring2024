@@ -25,6 +25,33 @@ description: >-
 
 ---
 
+## Homework 3
+
+**Due:** Thursday, March 28 at 11:59 PM.
+
+An aerodynamics laboratory experiment is done where CL vs angle-of-attack data has been collected at discrete points.  After the experiment, you are asked: what angle-of-attack values are needed to achieve CL values of 0.55, 0.9, and 1.45?  After reviewing the data collected it becomes clear that those exact values were not measured.  You decide to use tools learned in AEM 3103 to answer the question.
+
+Steps to get started:
+1. Download the dataset `Rutan-VariEze-Aero-Params.zip` (See Jan. 31 on class schedule for link).
+2. Download the starter script: [hw3_starter_script.m]({{ site.baseurl }}{% link /assets/hw3_starter_script.m %}){:target="_blank"}
+3. Decide on a graphical display that:
+  - (10 pts) Clearly communicates the answer sought.
+  - (10 pts) Mentions the source of the underlying dataset.
+  - (10 pts) Explains the models used and any assumptions.
+  - (10 pts) Can be embedded into a presentation or publication and still easily read.
+4. Design and build the graphic.  For this assignment all design implementation should be done in MATLAB.
+
+Submission Formatting: 
+  - Print/export your figure as a PDF
+  - Submit via Gradescope
+
+### Changelog
+{: .no_toc}
+
+- Mar. 21: First release.
+
+---
+
 ## Homework 2
 
 **Due:** Sunday, March 24 at 11:59 PM.

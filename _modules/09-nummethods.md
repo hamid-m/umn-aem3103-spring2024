@@ -3,24 +3,26 @@ title: Numerical Methods
 ---
 Mar. 25
 : Numerical Differentiation 
-  : Chap. 8
+  : Chap. 8.1, 8.2, 8.3, 8.4
+: Notes: Finite Difference Methods
+    : [chap08-num-der-finite-diff-methods.pdf]({{ site.baseurl }}{% link /assets/notes/chap08-num-der-finite-diff-methods.pdf %}){:target="_blank"}
 
 Mar. 27
+: Numerical Differentiation (cont.)
+  : Chap. 8
+
+Apr. 1
 : Numerical Integration 
   : Chap. 9
 : **HW 4**{: .label .label-green} 
   : Num. Int. & ODE
 
-Apr. 1
+Apr. 3
 : Numerical Integration (cont.)
   : Chap. 9
 
-Apr. 3
-: Ordinary Differential Equations (ODE)
-  : Chap. 10
-
 Apr. 8
-: ODE (cont.)
+: Ordinary Differential Equations (ODE)
   : Chap. 10
 
 Apr. 10

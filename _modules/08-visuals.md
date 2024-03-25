@@ -10,7 +10,10 @@ Mar. 18
 
 Mar. 20
 : Visualization Information
-  : notes coming
+
+Resources
+: [High Quality Figures in MATLAB](https://www.che.utah.edu/wp-content/uploads/2020/10/MatlabPlots.pdf){:target="_blank"}
+
 : **HW 3**{: .label .label-green} 
   : Visualizations 
 

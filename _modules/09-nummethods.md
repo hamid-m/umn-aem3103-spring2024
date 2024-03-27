@@ -9,7 +9,10 @@ Mar. 25
 
 Mar. 27
 : Numerical Differentiation (cont.)
-  : Chap. 8
+  : Chap. 8 : **Download Data**{: .label .label-blue} : [Rutan-VariEze-Aero-Params.zip]({{ site.baseurl }}{% link /assets/Rutan-VariEze-Aero-Params.zip %}){:target="_blank"}
+: **Download Data**{: .label .label-blue} 
+  : [n380-car-data-subset.zip]({{ site.baseurl }}{% link /assets/n380-car-data-subset.zip %}){:target="_blank"}
+
 
 Apr. 1
 : Numerical Integration 

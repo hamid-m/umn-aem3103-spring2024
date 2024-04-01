@@ -15,19 +15,23 @@ Mar. 27
 
 Apr. 1
 : Numerical Integration 
-  : Chap. 9
-: **HW 4**{: .label .label-green} 
-  : Num. Int. & ODE
+  : Chap. 9.1, 9.2, 9.3
+: Notes: Introduction & Basic Methods
+    : [chap09a-num-int-basic-methods.pdf]({{ site.baseurl }}{% link /assets/notes/chap09a-num-int-basic-methods.pdf %}){:target="_blank"}
 
 Apr. 3
 : Numerical Integration (cont.)
   : Chap. 9
+: **HW 4**{: .label .label-green} 
+  : Num. Int. & ODE
 
 Apr. 8
+: *In-person, but available via Zoom*
 : Ordinary Differential Equations (ODE)
   : Chap. 10
 
 Apr. 10
+: *Recorded Lecture (to be shared)*
 : ODE (cont.)
   : Chap. 10
 

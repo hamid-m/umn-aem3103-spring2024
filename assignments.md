@@ -35,7 +35,8 @@ description: >-
 **Due:** Monday, April 15 at 11:59 PM.
 
 1. (30 pts) Download the datasets collected during lecture on April 3 using a gyroscope mounted to a rotating platform.  There are two files: `A-known-rotation.csv` and `B-unknown-rotation.csv`.  The first started static, rotated clockwise 90 degrees, static, then rotated counter-clockwise 90 degrees thus returning to the original orientation. The second followed a similar procedure but the angle of rotation is unknown.  Your goal is to create a plot showing the orientation vs time of the 2nd dataset in three ways: (1) Apply the trapezoidal method (your own implementation) (2) Apply Simpson's 1/3 method (your own implementation) (3) A final estimate using either method (or a MATLAB built-in method) and layering in any additional processing to improve the accuracy.  The plot should clearly shown the numeric value of the final estimate at the midway point.
-   - Dataset: Comming Soon: *gyroscope-dataset.zip*
+   - Dataset: [gyro-dataset.zip]({{ site.baseurl }}{% link /assets/gyro-dataset.zip %}){:target="_blank"}
+ 
    - Grading: 
       - (10 pts) Accurate Implementation of Trapezoidal Method
       - (10 pts) Accurate Implementation of Simpson's 1/3 Method

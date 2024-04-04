@@ -21,7 +21,9 @@ Apr. 1
 
 Apr. 3
 : Numerical Integration (cont.)
-  : Chap. 9
+  : Chap. 9.4, 9.7, 9.8
+: Notes: Simpson's Methods & Accuracy
+    : [chap09b-num-int-simpsons-methods.pdf]({{ site.baseurl }}{% link /assets/notes/chap09b-num-int-simpsons-methods.pdf %}){:target="_blank"}
 : **HW 4**{: .label .label-green} 
   : Num. Int. & ODE
 

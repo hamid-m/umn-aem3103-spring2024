@@ -34,13 +34,14 @@ description: >-
 
 **Due:** Monday, April 15 at 11:59 PM.
 
-1. (30 pts) Download the datasets collected during lecture on April 3 using a gyroscope mounted to a rotating platform.  There are two files: `A-known-rotation.csv` and `B-unknown-rotation.csv`.  The first started static, rotated clockwise 90 degrees, static, then rotated counter-clockwise 90 degrees thus returning to the original orientation. The second followed a similar procedure but the angle of rotation is unknown.  Your goal is to create a plot showing the orientation vs time of the 2nd dataset in three ways: (1) Apply the trapezoidal method (your own implementation) (2) Apply Simpson's 1/3 method (your own implementation) (3) A final estimate using either method (or a MATLAB built-in method) and layering in any additional processing to improve the accuracy.  The plot should clearly shown the numeric value of the final estimate at the midway point.
+1. (30 pts) Download the datasets collected during lecture on April 3 using a gyroscope mounted to a rotating platform.  There are two files: `A-known-rotation.csv` and `B-unknown-rotation.csv`.  The first started static, rotated clockwise 90 degrees, static, then rotated counter-clockwise 90 degrees thus returning to the original orientation. The second followed a similar procedure but the angle of rotation is unknown.  Your goal is to create a **single** figure showing the orientation vs time of the 2nd dataset in three ways: (1) Apply the trapezoidal method (your own implementation) (2) Apply Simpson's 1/3 method (your own implementation) (3) A final estimate using either method (or a MATLAB built-in method) and layering in any additional processing to improve the accuracy.  The plot should clearly shown the numeric value of the final estimate at the midway point (i.e. at (tmax - tmin)/2).
    - Dataset: [gyro-dataset.zip]({{ site.baseurl }}{% link /assets/gyro-dataset.zip %}){:target="_blank"}
+      - The 4 columns are: time (sec), wx (dps), wy (dps), wz (dps)
  
    - Grading: 
       - (10 pts) Accurate Implementation of Trapezoidal Method
       - (10 pts) Accurate Implementation of Simpson's 1/3 Method
-      - (10 pts) Numeric accuracy.  1 point will be taken off for every degree of error.  If the error is not easy to see no points will be given.
+      - (10 pts) Numeric accuracy of the final estimate at the midway point.  1 point will be taken off for every degree of error.  If the error is not easy to see no points will be given.
 2. (30 pts) Textbook problem 10.1
 3. (30 pts) In this problem you will use the built-in MATLAB function `ode45` to solve the equations of motion for a paper airplane (glider) in longitudinal flight. The equations of motion for such an airplane after launched by hand are given by:
 

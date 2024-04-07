@@ -32,7 +32,7 @@ Apr. 8
 : Ordinary Differential Equations (ODE)
   : Chap. 10.1, 10.2, 10.3
 : Notes: Introduction, Euler's Method, & Modified Euler's Method
-    : *comming soon*  
+    : [chap10a-ode-ivp-intro-euler-mod-euler.pdf]({{ site.baseurl }}{% link /assets/notes/chap10a-ode-ivp-intro-euler-mod-euler.pdf %}){:target="_blank"}
 
 Apr. 10
 : *Recorded Lecture (to be shared)*

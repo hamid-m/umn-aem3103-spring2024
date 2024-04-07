@@ -3,7 +3,9 @@ title: Final Project & Collaboration
 ---
 Apr. 22
 : Collaboration 
-  : *notes coming*
+: **GitHub Sign Up**{: .label .label-blue} 
+  : [GitHub Sign Up](https://github.com/signup){:target="_blank"}
+
 : **Final Project Released**{: .label .label-green}
  
 Apr. 24

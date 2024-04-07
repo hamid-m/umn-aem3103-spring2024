@@ -30,18 +30,22 @@ Apr. 3
 Apr. 8
 : *In-person, but available via Zoom*
 : Ordinary Differential Equations (ODE)
-  : Chap. 10
+  : Chap. 10.1, 10.2, 10.3
+: Notes: Introduction, Euler's Method, & Modified Euler's Method
+    : *comming soon*  
 
 Apr. 10
 : *Recorded Lecture (to be shared)*
 : ODE (cont.)
-  : Chap. 10
+  : Chap. 10.5
+: Notes: Runge-Kutta Methods
+    : *comming soon*  
 
 Apr. 15
 : ODE (cont.)
-  : Chap. 10
-: **GitHub Sign Up**{: .label .label-blue} 
-  : [GitHub Sign Up](https://github.com/signup){:target="_blank"}
+  : Chap. 10.10
+: Notes: Solving ODEs Using Built-In MATLAB Functions
+    : *comming soon*  
 
 
 Apr. 17

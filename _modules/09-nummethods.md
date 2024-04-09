@@ -25,21 +25,21 @@ Apr. 3
 : Notes: Simpson's Methods & Accuracy
     : [chap09b-num-int-simpsons-methods.pdf]({{ site.baseurl }}{% link /assets/notes/chap09b-num-int-simpsons-methods.pdf %}){:target="_blank"}
 : **HW 4**{: .label .label-green} 
-  : Num. Int. & ODE
+: Num. Int. & ODE
 
 Apr. 8
 : *In-person, but available via Zoom*
 : Ordinary Differential Equations (ODE)
   : Chap. 10.1, 10.2, 10.3
 : Notes: Introduction, Euler's Method, & Modified Euler's Method
-    : [chap10a-ode-ivp-intro-euler-mod-euler.pdf]({{ site.baseurl }}{% link /assets/notes/chap10a-ode-ivp-intro-euler-mod-euler.pdf %}){:target="_blank"}
+    : [chap10a-ode-ivp-intro-euler-mod-euler-revb.pdf]({{ site.baseurl }}{% link /assets/notes/chap10a-ode-ivp-intro-euler-mod-euler-revb.pdf %}){:target="_blank"}
 
 Apr. 10
-: *Recorded Lecture (to be shared)*
+: *Recorded Lecture (to be shared via Canvas)*
 : ODE (cont.)
   : Chap. 10.5
 : Notes: Runge-Kutta Methods
-    : *comming soon*  
+    : [chap10b-ode-runge-kutta.pdf]({{ site.baseurl }}{% link /assets/notes/chap10b-ode-runge-kutta.pdf %}){:target="_blank"}
 
 Apr. 15
 : ODE (cont.)

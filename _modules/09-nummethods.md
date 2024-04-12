@@ -35,18 +35,15 @@ Apr. 8
     : [chap10a-ode-ivp-intro-euler-mod-euler-revb.pdf]({{ site.baseurl }}{% link /assets/notes/chap10a-ode-ivp-intro-euler-mod-euler-revb.pdf %}){:target="_blank"}
 
 Apr. 10
-: *Recorded Lecture (to be shared via Canvas)*
-: ODE (cont.)
-  : Chap. 10.5
+: *Recorded Lecture (shared via Canvas)*
+: ODE (cont.), Solving with Built-In MATLAB Functions
+  : Chap. 10.5, 10.10
 : Notes: Runge-Kutta Methods
     : [chap10b-ode-runge-kutta.pdf]({{ site.baseurl }}{% link /assets/notes/chap10b-ode-runge-kutta.pdf %}){:target="_blank"}
 
 Apr. 15
-: ODE (cont.)
-  : Chap. 10.10
-: Notes: Solving ODEs Using Built-In MATLAB Functions
-    : *comming soon*  
-
+: ODE (cont.) and Exam 2 Review
+   
 
 Apr. 17
 : **Exam 2**{: .label .label-orange}

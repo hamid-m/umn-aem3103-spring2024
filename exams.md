@@ -11,31 +11,36 @@ description: >-
 Change Log:
 1. (April 22) First Released.
 
-You are intersted in studying the flight properties of a glider (i.e. unpowered).  To do so, you will utilize a variation of the paper airplane flight simulator used previously in Homework 4.  
+You are intersted in studying the flight properties of a glider (i.e. unpowered).  To do so, you will utilize a variation of the paper airplane flight simulator used in Homework 4.  
 
 1. Visit [Paper Airplane Simulator](http://www.stengel.mycpanel.princeton.edu/PaperPlane.html) and download `PaperPlane.m`.  Follow the instructions to able to run the simulation for cases A-D.
-2. Focusing on Case A: A certain amount of variation is expected in the parameters simulated.  The expected variation is shown below.  Create a single figure with a 3x1 grid of subplots of 2D flight trajectories (i.e. height vs range).  Each plot should show the simulation results for varying a single parameter over three conditions: nominal (black), +variation (green), -variation (red).
+2. Focusing on Case A: A certain amount of variation is expected in the parameters simulated.  The expected variation is shown below.  Create a single figure with a 2x1 grid of subplots of 2D flight trajectories (i.e. height vs range).  Each plot should show the simulation results for varying a single parameter over three conditions: nominal (black), higher (green), and lower (red) value.
   - Initial Velocity: [+2, +7.5] where nominal is 3.55 m/s
   - Initial Flight Path Angle: [-0.5, +0.4] where nominal is -0.18 rad
-3. The above variations were studied independently.  To study the impact of simulatneous variations you decide to using a uniform random number generator (see `rand` in MATLAB) to pick parameters within their expected range.  A single run will pick random values for all parameters and simulate the 2D trajectory.  Do 100 such runs and plot all trajectories on a single figure.  Chhoose a suitable color and line style to show the variations nicely.  
+3. The above variations were studied independently.  To study the impact of simultaneous variations you decide to using a uniform random number generator (see `rand` in MATLAB) to pick parameters within their expected range.  A single run will pick random values for all parameters and simulate the 2D trajectory.  Do 100 such runs and plot all trajectories on a single figure.  Choose a suitable color and line style to show the variations nicely.  
   - For example, if a parameter `p` is in the range `[pmin,pmax]` then a random sample could be `pmin + (pmax-pmin)*rand(1)`.
+  - To get the same step-size for each simulation, it may be necessary to supply `tspan` as `[t0, t1, t2, ..., tf]` instead of the usual `[t0, tf]`.
 4. To conclude the parameter variation study, an average trajectory is desired.  Concatenate the above 100 2D trajectories into three arrays: time, range, and height.  Then choose a suitable polynomial to fit a curve to each array of data points.
   - The two polynomials should take time as an input and output range or height as outputs.
-5. Compute the first time derivatives (i.e. `d(height)/d(time) and d(range)/d(time)`) for this average trajectory.  Plot them in a single figure with a 2x1 grid of subplots.
+5. Compute the first time derivatives (i.e. `d(height)/d(time)` and `d(range)/d(time)`) for this average trajectory.  Plot them in a single figure with a 2x1 grid of subplots.
 6. Organize the results in a README file with the following outline:
+
   ```
   # Paper Airplane Numerical Study
   Final Project: AEM 3103 Spring 2024
 
-  - By: <NAME>
-  - Team Members: <Name of team members, if working as a team>
+  - By: <NAME or NAMES of team members, if completed as a team>
 
   ## Summary of Findings
   <Show the variations studied in a table>
 
-  Describe 2-4 observations from simulating the flight path.
+  Summarized what was accomplished in this study.  Describe 2-4 observations from simulating the flight path.
   Reference the figures below as needed.
-  
+
+  *If the analysis falls short of the goal, this is your chance to explain what was done or what were the barriers.*
+ 
+  # Code Listing
+  A list of each function/script and a single-line description of what it does.  The name of the function/script should link to the file in the repository on GitHub.
 
   # Figures
 
@@ -65,6 +70,13 @@ You are intersted in studying the flight properties of a glider (i.e. unpowered)
   ## Graphical Animation
   <Same as the above animation, except that the moving *point* should be a 2D drawing of an airplane, drawn using CAD>
   ```
+
+## Submission and Grading
+
+1. Ensure the TAs and course instructor are added as collaborators (read/view permissions are sufficient).
+2. On Gradescope, submit the URL to your repository.
+
+*Grading Rubric Coming Soon*
 
 ## Exam 2 Topics 
 

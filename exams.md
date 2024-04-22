@@ -1,10 +1,29 @@
 ---
 layout: page
-title: Exams
+title: Exams & Final
 nav_order: 3
 description: >-
     Topics for course exams.
 ---
+
+## Final Project
+
+You are intersted in studying the flight properties of a glider (i.e. unpowered).  To do so, you will utilize a variation of the paper airplane flight simulator used previously in Homework 4.  
+
+1. Visit [Paper Airplane Simulator](http://www.stengel.mycpanel.princeton.edu/PaperPlane.html) and download `PaperPlane.m`.  Follow the instructions to able to run the simulation for cases A-D.
+2. Focusing on Case A: A certain amount of variation is expected in the parameters simulated.  The expected variation is shown below.  Create a single figure with a 2x3 grid of subplots of 2D flight trajectories (i.e. height vs range).  Each plot should show the simulation results for varying a single parameter over three conditions: nominal (black), +variation (green), -variation (red).
+  - Initial Velocity: +/- 20%
+  - Initial Flight Path Angle: +/- 20%
+  - Reference Area: +/- 10%
+  - Aspect Ratio: +/- 10%
+  - Mass: +/- 10%
+  - Air Density: +/- 5%
+3. The above variations were studied independently.  To study the impact of simulatneous variations you decide to using a uniform random number generator (see `rand` in MATLAB) to pick parameters within their expected range.  A single run will pick random values for all parameters and simulate the 2D trajectory.  Do 100 such runs and plot all trajectories on a single figure.  Chhoose a suitable color and line style to show the variations nicely.  
+  - For example, if a parameter is nominally `p` and varies by 5%, a random sample could be `p + p*0.05*(1-2*rand(1))`.
+4. To conclude the parameter variation study, an average trajectory is desired.  Concatenate the above 100 2D trajectories.  Then choose a suitable polynomial to fit a single curve to the data points.
+  - This polynomial should take time as an input and output range and height as outputs.
+5. Compute the first time derivatives (i.e. `d(height)/d(time) and d(range)/d(time)`) for this average trajectory.  Plot them in a single figure with a 2x1 grid of subplots.
+
 
 ## Exam 2 Topics 
 

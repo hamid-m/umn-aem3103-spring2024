@@ -8,22 +8,63 @@ description: >-
 
 ## Final Project
 
+Change Log:
+1. (April 22) First Released.
+
 You are intersted in studying the flight properties of a glider (i.e. unpowered).  To do so, you will utilize a variation of the paper airplane flight simulator used previously in Homework 4.  
 
 1. Visit [Paper Airplane Simulator](http://www.stengel.mycpanel.princeton.edu/PaperPlane.html) and download `PaperPlane.m`.  Follow the instructions to able to run the simulation for cases A-D.
-2. Focusing on Case A: A certain amount of variation is expected in the parameters simulated.  The expected variation is shown below.  Create a single figure with a 2x3 grid of subplots of 2D flight trajectories (i.e. height vs range).  Each plot should show the simulation results for varying a single parameter over three conditions: nominal (black), +variation (green), -variation (red).
-  - Initial Velocity: +/- 20%
-  - Initial Flight Path Angle: +/- 20%
-  - Reference Area: +/- 10%
-  - Aspect Ratio: +/- 10%
-  - Mass: +/- 10%
-  - Air Density: +/- 5%
+2. Focusing on Case A: A certain amount of variation is expected in the parameters simulated.  The expected variation is shown below.  Create a single figure with a 3x1 grid of subplots of 2D flight trajectories (i.e. height vs range).  Each plot should show the simulation results for varying a single parameter over three conditions: nominal (black), +variation (green), -variation (red).
+  - Initial Velocity: [+2, +7.5] where nominal is 3.55 m/s
+  - Initial Flight Path Angle: [-0.5, +0.4] where nominal is -0.18 rad
 3. The above variations were studied independently.  To study the impact of simulatneous variations you decide to using a uniform random number generator (see `rand` in MATLAB) to pick parameters within their expected range.  A single run will pick random values for all parameters and simulate the 2D trajectory.  Do 100 such runs and plot all trajectories on a single figure.  Chhoose a suitable color and line style to show the variations nicely.  
-  - For example, if a parameter is nominally `p` and varies by 5%, a random sample could be `p + p*0.05*(1-2*rand(1))`.
-4. To conclude the parameter variation study, an average trajectory is desired.  Concatenate the above 100 2D trajectories.  Then choose a suitable polynomial to fit a single curve to the data points.
-  - This polynomial should take time as an input and output range and height as outputs.
+  - For example, if a parameter `p` is in the range `[pmin,pmax]` then a random sample could be `pmin + (pmax-pmin)*rand(1)`.
+4. To conclude the parameter variation study, an average trajectory is desired.  Concatenate the above 100 2D trajectories into three arrays: time, range, and height.  Then choose a suitable polynomial to fit a curve to each array of data points.
+  - The two polynomials should take time as an input and output range or height as outputs.
 5. Compute the first time derivatives (i.e. `d(height)/d(time) and d(range)/d(time)`) for this average trajectory.  Plot them in a single figure with a 2x1 grid of subplots.
+6. Organize the results in a README file with the following outline:
+  ```
+  # Paper Airplane Numerical Study
+  Final Project: AEM 3103 Spring 2024
 
+  - By: <NAME>
+  - Team Members: <Name of team members, if working as a team>
+
+  ## Summary of Findings
+  <Show the variations studied in a table>
+
+  Describe 2-4 observations from simulating the flight path.
+  Reference the figures below as needed.
+  
+
+  # Figures
+
+  ## Fig. 1: Single Parameter Variation
+  <2D trajectory simulated by varying single parameter at at time>
+  <The above plot should also show the nominal trajectory>
+
+  Briefly describe what is being shown in the figure.
+
+  ## Fig. 2: Monte Carlo Simulation
+  <2D trajectories simulated using random sampling of parameters, overlay polynomial fit onto plot.>
+
+  Briefly describe what is being shown in the figure.
+
+ ## Fig. 3: Time Derivatives
+ <Time-derivative of height and range for the fitted trajectory>
+
+  Briefly describe what is being shown in the figure.
+
+  (Below are for teams of 2-3 people)
+
+  # Animation
+  ## Point-Mass Animation
+  <Animated GIF showing 2D trajectory for nominal and the scenario (V=7.5 m/s, Gam=+0.4 rad)>
+  
+  (Below are for teams of 3 people)
+  ## Graphical Animation
+  <Same as the above animation, except that the moving *point* should be a 2D drawing of an airplane, drawn using CAD>
+  ```
 
 ## Exam 2 Topics 
 

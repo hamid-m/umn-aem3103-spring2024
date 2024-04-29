@@ -9,7 +9,8 @@ description: >-
 ## Final Project
 
 Change Log:
-1. (April 22) First Released.
+1. (April 22) First released.
+1. (April 29) Adds grading rubric.
 
 You are intersted in studying the flight properties of a glider (i.e. unpowered).  To do so, you will utilize a variation of the paper airplane flight simulator used in Homework 4.  
 
@@ -77,6 +78,17 @@ You are intersted in studying the flight properties of a glider (i.e. unpowered)
 2. On Gradescope, submit the URL to your repository.
 
 *Grading Rubric Coming Soon*
+Grading Rubric (100 total):
+  - (20 pts) **Clear:** Clearly communicates results following README submission template.
+  - (30 pts) **Version Control:** Uses version control and GitHub for both development and communication of results.
+  - (20 pts) **Accuracy:** Results are numerically accurate.
+  - (30 pts) **Complete:** Implements all requested studies.
+    - Single parameter variations
+    - Random parameter variations
+    - Proper dataset used for polynomial fit
+    - Computation of time derivatives
+    - (Teams) Animations
+
 
 ## Exam 2 Topics 
 
